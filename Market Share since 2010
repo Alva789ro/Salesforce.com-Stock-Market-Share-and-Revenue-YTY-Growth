@@ -1,0 +1,25 @@
+# xlsx file required
+
+# in order to run this code, you will require to create a dataframe (preferible in excel) where you include the data of the YTY growth of you company's market share 
+# in a table of 11 x 2 (11 rows and 2 columns)
+
+# like this one:
+
+Year		Market Share Growth
+2009	 	0
+2010	 	0.082197115
+2011	  0.111019421
+2012	 	0.218445586
+2013	 	0.196461764
+2014	 	0.17224971
+2015	 	0.156862789
+2016	 	-0.034437243
+2017	 	0.009362317
+2018		0.050886463
+2019	  0.124790438
+
+# The one above is from my reasearch of Salesforce.com. Feel free to use it.
+
+# After creting the xlsx file, just adjust the names in the code with you file's name, or viceversa, along with the variable names, if desired.
+
+#Good luck.
